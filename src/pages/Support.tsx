@@ -98,7 +98,7 @@ export function SupportPage() {
                 window.open("https://sussy-code.github.io/docs", "_blank")
               }
             >
-              Sudo-Flix Docs
+              movies.cyph.cloud Docs
             </Button>
           </div>
         </Paragraph>
